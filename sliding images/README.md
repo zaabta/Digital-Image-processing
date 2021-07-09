@@ -1,4 +1,4 @@
 # Sliding images by using OCL Libary
 
 
-![a giant logo](https://s6.gifyu.com/images/ezgif.com-gif-maker-110f3107a6ce737fe.gif)(https://link.to/somewhere)
+<img src="https://im7.ezgif.com/tmp/ezgif-7-7e27d4c59754.gif"/>
